@@ -1,0 +1,31 @@
+repo_name: 2lambda123/Shack-Hartmann-Simulator
+report_id: f76d162616a51a05e389773bae2c13fd
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T06:52:41+00:00'
+requested_by: SergioBonaqueGonzalez
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: MATLAB
+  description: A high-level language and interactive environment for numerical computation,
+    visualization, and programming
+  website_url: http://www.mathworks.com/products/matlab/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg
+  detection_source_url: https://github.com/2lambda123/Shack-Hartmann-Simulator
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/Shack-Hartmann-Simulator
+  detection_source: Repo Metadata
